@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/text-reformer/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/text-reformer/static/js/main.e25e1b7d.chunk.js",
+    "main.js.map": "/text-reformer/static/js/main.e25e1b7d.chunk.js.map",
+    "runtime-main.js": "/text-reformer/static/js/runtime-main.4699bf07.js",
+    "runtime-main.js.map": "/text-reformer/static/js/runtime-main.4699bf07.js.map",
+    "static/js/2.ad3cc879.chunk.js": "/text-reformer/static/js/2.ad3cc879.chunk.js",
+    "static/js/2.ad3cc879.chunk.js.map": "/text-reformer/static/js/2.ad3cc879.chunk.js.map",
+    "static/js/3.aac6018c.chunk.js": "/text-reformer/static/js/3.aac6018c.chunk.js",
+    "static/js/3.aac6018c.chunk.js.map": "/text-reformer/static/js/3.aac6018c.chunk.js.map",
+    "index.html": "/text-reformer/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/text-reformer/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ad3cc879.chunk.js.LICENSE.txt": "/text-reformer/static/js/2.ad3cc879.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4699bf07.js",
+    "static/js/2.ad3cc879.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.e25e1b7d.chunk.js"
+  ]
+}
